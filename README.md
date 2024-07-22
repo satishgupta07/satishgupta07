@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m [Satish Kumar Gupta](https://www.linkedin.com/in/satish-kumar-gupta-b20169160/)
-- 💼 Software Engineer at [Nagarro](https://www.nagarro.com/en)
+- 💼 Software Engineer at [Infosys](https://www.infosys.com/)
 - 🖥️  See my portfolio at [Portfolio](https://satishkumargupta.netlify.app/)
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on **Developer community**
