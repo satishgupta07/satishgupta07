@@ -2,7 +2,7 @@
 
 # Hi there, I'm Satish Kumar Gupta 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;React+%7C+React+Native+%7C+Next.js;Java+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+%26+mobile+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;React+%7C+React+Native+%7C+Next.js;Java+%7C+Spring+Boot+%7C+Node.js;Building+scalable+web+%26+mobile+apps)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=satishgupta07&color=6ad3f7&style=flat-square&label=Profile+Views)](https://github.com/satishgupta07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/satish-kumar-gupta-b20169160)
